@@ -27,6 +27,16 @@ With left CMD on MAC or left ALT on Windows the right part of the keyboard works
 |left|down|up|right|\\ |` |
 |-|=|[|]|/||
 
+### Right part of the keyboard as a numpad
+
+With left Option on MAC or left Win key on Windows the right part of the keyboard works like this
+
+|6|7|8|9|0|-|
+|-|-|-|-|-|-|
+|1|2|3||||
+|4|5|6|||
+|7|8|9|0|||
+
 ## Installation
 
 ### Mac
