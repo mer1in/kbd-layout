@@ -11,7 +11,7 @@ With right CMD on MAC or right ALT on Windows the left part of the keyboard work
 |1|2|3|4|5|
 |-|-|-|-|-|
 |q|w|e|r|t|
-||esc|bs|enter|
+|a|esc|bs|enter|g
 |home|end|c|v|b|
 
 With right shift the **D** letter "Backspase" becomes "Delete"
